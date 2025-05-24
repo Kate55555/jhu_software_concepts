@@ -1,11 +1,30 @@
 {% extends 'base.html' %}
 
 {% block header %}
-  <h2>{% block title %}Home{% endblock title %}</h2>
+  <h1>{% block title %}Kate Borisova{% endblock title %}</h1>
 {% endblock header %}
 
 {% block content %}
-  <p>
-    Learn more about this project by visiting the <a href="{{ url_for('pages.home') }}">About page</a>.
-  </p>
+<div class="container py-4 px-0">
+<div class="row">
+  <div class="col">
+    <h2>Student at Johns Hopkins University</h2>
+    <p></p>
+  </div>
+</div>
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+      Kate Borisova is a Solutions Analyst at Lincoln University in New Zealand
+      specializing in implementation of Identity and Access Management solutions 
+      as a part of the Cybersecurity program. She holds a bachelor's and master's 
+      of science in Computer Science from Syktyvkar State University. She has a 
+      strong background in ICT.
+      </p>
+    </div>
+    <div class="col-md-6">
+      <img src="{{ url_for('static', filename='5219813547880605353.jpg') }}" class="img-fluid" alt="KPhoto"/>
+    </div>
+  </div>
+</div>
 {% endblock content %}
