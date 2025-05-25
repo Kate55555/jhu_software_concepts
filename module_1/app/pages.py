@@ -1,7 +1,9 @@
-from flask import Blueprint, render_template, request
+from flask import Blueprint, render_template
 
+# Create an instance of Blueprint
 bp = Blueprint("pages", __name__)
 
+# Define routes to return templates 
 @bp.route("/")
 def home():
     return render_template("pages/home.html")
