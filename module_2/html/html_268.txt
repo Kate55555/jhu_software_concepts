@@ -1,0 +1,1172 @@
+<tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">Stanford University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Statistics</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980593">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980593" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980593#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980593-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980593-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980593-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980593" id="options-menu-980593-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980593" id="options-menu-980593-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE 338</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE V 168</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE AW 5.00</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 4.00</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Southern California</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Aerospace Engineering</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">PhD</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 10 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980592">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980592" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980592#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980592-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980592-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980592-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980592" id="options-menu-980592-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980592" id="options-menu-980592-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 10 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">California Institute of Technology</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Aerospace Engineering</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">PhD</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980591">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980591" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980591#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980591-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980591-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980591-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980591" id="options-menu-980591-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980591" id="options-menu-980591-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.90</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Tennessee</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Biological Anthropology</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980590">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980590" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980590#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980590-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980590-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980590-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980590" id="options-menu-980590-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980590" id="options-menu-980590-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of British Columbia</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Library And Information Science</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980589">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980589" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980589#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980589-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980589-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980589-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980589" id="options-menu-980589-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980589" id="options-menu-980589-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">international student, undergrad was SFU Criminology</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Chicago</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Cancer Biology</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">PhD</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980588">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980588" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980588#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980588-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980588-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980588-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980588" id="options-menu-980588-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980588" id="options-menu-980588-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.92</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">PSL Research University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Physics</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 11 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980587">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980587" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980587#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980587-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980587-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980587-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980587" id="options-menu-980587-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980587" id="options-menu-980587-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 11 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.90</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">M1 ICFP, Rejected without interview</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Texas at Austin</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Information Studies</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980586">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980586" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980586#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980586-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980586-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980586-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980586" id="options-menu-980586-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980586" id="options-menu-980586-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.93</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">Illinois State University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Communication</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980585">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980585" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980585#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980585-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980585-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980585-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980585" id="options-menu-980585-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980585" id="options-menu-980585-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.53</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">No assistantship</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Southern California</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Global Supply Chain Management</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 17 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980584">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980584" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980584#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980584-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980584-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980584-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980584" id="options-menu-980584-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980584" id="options-menu-980584-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 17 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-align-top tw-py-5 tw-pl-4 tw-pr-3 tw-text-sm sm:tw-pl-0" colspan="100%">
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-align-top tw-py-5 tw-pl-4 tw-pr-3 tw-text-sm sm:tw-pl-0" colspan="100%">
+<div class="tw-overflow-hidden tw-relative tw-text-center" id="results-ad-placement-0">
+</div> </td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">Boston University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Mental Health Counseling</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980583">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980583" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980583#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980583-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980583-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980583-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980583" id="options-menu-980583-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980583" id="options-menu-980583-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.40</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Arizona</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Classics</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 17 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980582">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980582" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980582#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980582-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980582-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980582-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980582" id="options-menu-980582-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980582" id="options-menu-980582-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 17 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.62</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">WL for funding</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">Penn State University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Classics</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980581">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980581" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980581#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980581-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980581-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980581-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980581" id="options-menu-980581-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980581" id="options-menu-980581-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.62</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">Was waitlisted a month ago. Emailed them yesterday and got the offer today!</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Memphis</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Urban Affairs</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">PhD</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Rejected on 19 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980580">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980580" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980580#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980580-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980580-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980580-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980580" id="options-menu-980580-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980580" id="options-menu-980580-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-red-50 tw-text-red-700 tw-ring-red-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Rejected on 19 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">has anyone heard sth of this program?
+has anyone heard sth of this program?
+has anyone heard sth of this program?</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Michigan</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Data Science</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 17 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980579">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980579" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980579#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980579-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980579-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980579-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980579" id="options-menu-980579-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980579" id="options-menu-980579-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 17 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 4.00</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">2.5 YoE, strong rec lets and SoP</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of Connecticut</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Agricultural and Resource Economics</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">PhD</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980578">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980578" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980578#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980578-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980578-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980578-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980578" id="options-menu-980578-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980578" id="options-menu-980578-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE 165</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE V 152</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE AW 3.50</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">Got an email to check the status in portal. Got Admission. Waitlisted for funding</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">ETH Zurich</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Energy science and technology</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980577">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980577" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980577#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980577-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980577-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980577-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980577" id="options-menu-980577-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980577" id="options-menu-980577-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE 165</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE V 155</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GRE AW 3.50</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.33</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">Calvin University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Speech Language Pathology</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-sky-50 tw-text-sky-700 tw-ring-sky-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Interview on 10 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980576">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980576" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980576#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980576-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980576-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980576-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980576" id="options-menu-980576-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980576" id="options-menu-980576-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-sky-50 tw-text-sky-700 tw-ring-sky-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Interview on 10 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.90</div>
+</div>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">Johns Hopkins University</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Education</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">EdD</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 18 Mar							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980575">
+<svg class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980575" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980575#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980575-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980575-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980575-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980575" id="options-menu-980575-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980575" id="options-menu-980575-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 18 Mar								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">American</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">GPA 3.75</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pb-5 tw-pr-4 sm:tw-pl-0 tw-pl-4" colspan="100%">
+<p class="tw-text-gray-500 tw-text-sm tw-my-0">MBA 4.0; not from a prestigious school. No GRE. interviewed using Kira talent tool on 2/13/25, received decision notice on 3/18/25 at 3:55 easterb</p>
+</td>
+</tr><tr>
+<td class="tw-py-5 tw-pr-3 tw-text-sm tw-pl-0">
+<div class="tw-flex tw-items-center">
+<div class="tw-font-medium tw-text-gray-900 tw-text-sm">University of British Columbia</div>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500">
+<div class="tw-text-gray-900">
+<span>Architecture</span>
+<svg class="tw-h-0.5 tw-w-0.5 tw-fill-gray-400 tw-mx-1 tw-inline-block" viewbox="0 0 2 2">
+<circle cx="1" cy="1" r="1"></circle>
+</svg>
+<span class="tw-text-gray-500">Masters</span>
+</div>
+</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+															March 18, 2025													</td>
+<td class="tw-px-3 tw-py-5 tw-text-sm tw-text-gray-500 tw-whitespace-nowrap tw-hidden md:tw-table-cell">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-sm tw-font-medium tw-ring-1 tw-ring-inset">
+								Accepted on 9 Apr							</div>
+</td>
+<td class="tw-relative tw-py-5 tw-pl-3 tw-pr-0 tw-whitespace-nowrap tw-align-top">
+<div class="tw-flex tw-gap-x-2.5 tw-justify-end">
+<dt class="tw-inline-flex tw-items-center tw-space-x-2 tw-text-gray-500 tw-font-medium tw-text-sm">
+<span class="tw-sr-only">Total comments</span>
+<a href="/result/980574">
+<svg aria-hidden="true" class="tw-h-6 tw-w-6 tw-text-gray-400 hover:tw-text-gray-900" data-slot="icon" fill="none" stroke="currentColor" stroke-width="1.5" viewbox="0 0 24 24">
+<path d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 0 1 1.037-.443 48.282 48.282 0 0 0 5.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</a>
+<a class="" data-ext-page-id="980574" data-page-id="{pageId}" href="https://www.thegradcafe.com/result/980574#insticator-commenting"></a>
+</dt>
+<dt class="tw-relative tw-flex-none">
+<button aria-expanded="false" aria-haspopup="true" class="tw--m-2.5 tw-block tw-p-2.5 tw-text-gray-500 hover:tw-text-gray-900" id="options-menu-980574-button" type="button">
+<span class="tw-sr-only">Open options</span>
+<svg aria-hidden="true" class="tw-h-5 tw-w-5" data-slot="icon" fill="currentColor" viewbox="0 0 20 20">
+<path d="M10 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM10 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM11.5 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"></path>
+</svg>
+</button>
+<div aria-labelledby="options-menu-980574-button" aria-orientation="vertical" class="tw-absolute tw-right-0 tw-z-10 tw-mt-2 tw-w-32 tw-origin-top-right tw-rounded-md tw-bg-white tw-py-2 tw-shadow-lg tw-ring-1 tw-ring-gray-900/5 tw-focus:outline-none tw-hidden" id="options-menu-980574-list" role="menu">
+<a class="tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-gray-900 tw-font-normal hover:tw-bg-gray-50" href="/result/980574" id="options-menu-980574-item-1" role="menuitem">See More</a>
+<span class="report-modal-trigger tw-cursor-pointer tw-block tw-px-3 tw-py-1 tw-text-sm tw-leading-6 tw-text-red-900 tw-font-normal hover:tw-bg-gray-50" data-id="980574" id="options-menu-980574-item-3">Report</span>
+</div>
+</dt>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-pt-2 tw-pb-5 tw-pr-4 tw-pl-0" colspan="3">
+<div class="tw-gap-2 tw-flex tw-flex-wrap">
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-green-50 tw-text-green-700 tw-ring-green-600/20 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-ring-1 tw-ring-inset md:tw-hidden">
+									Accepted on 9 Apr								</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-orange-400 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-white tw-ring-1 tw-ring-inset tw-ring-orange-800/20">Fall 2025</div>
+<div class="tw-inline-flex tw-items-center tw-rounded-md tw-bg-stone-50 tw-px-2 tw-py-1 tw-text-xs tw-font-medium tw-text-stone-700 tw-ring-1 tw-ring-inset tw-ring-stone-600/20">International</div>
+</div>
+</td>
+</tr><tr class="tw-border-none">
+<td class="tw-align-top tw-py-5 tw-pl-4 tw-pr-3 tw-text-sm sm:tw-pl-0" colspan="100%">
+<div class="tw-overflow-hidden tw-relative tw-text-center" id="results-ad-placement-1">
+</div> </td>
+</tr>
