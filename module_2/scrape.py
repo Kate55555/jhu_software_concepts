@@ -19,6 +19,9 @@ class Scrape:
 
 
     def save_data(self, filename: str, data: list):
+        """
+        Save data to html
+        """
         filepath = "module_2/html/1" + filename + ".txt" 
         with open(filepath, "w", encoding="utf-8") as f:
             for datum in data:
