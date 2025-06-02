@@ -5,6 +5,13 @@ if __name__ == "__main__":
     # URL to scrape data from
     url = "https://www.thegradcafe.com"
 
+    # Data file name prefix and extension
+    filename = "html_"
+    extension = ".txt"
+
+    # Formatted file name
+    output = "applicant_data.json"
+
     # Number of grad applicant entries per page
     m = 20
 
@@ -15,4 +22,5 @@ if __name__ == "__main__":
     # Scrape().scrape_data(url, n)
 
     # Extract pretty data to json
-    Clean().clean_data()
+    grad_info = Clean().clean_data(filename, extension, n)
+    Clean().save_data(grad_info)
