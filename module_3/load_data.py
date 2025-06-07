@@ -14,6 +14,7 @@ if __name__ == "__main__":
         "gradcafe", "postgres", "abc123", "127.0.0.1", "5432"
     )
 
+    # Set up a list of database column names
     table_cols = [
         "program",
         "comments",
@@ -69,6 +70,7 @@ if __name__ == "__main__":
         datum.setdefault("Degree", None)
         )
 
+        # Work around bad data for UIC
         if (datum.get("program").find("(UIC), University of Illinois Chicago") != -1):
             values = (
             datum.setdefault("Degree", None) + ", " + datum.get("program")[7:],
@@ -84,15 +86,19 @@ if __name__ == "__main__":
             gre_aw,
             datum.get("date_added", None)[9:]
         )
-            
+
+        # Add a tuple with single app info to a list    
         apps.append(values)
     
+    # Get a template to add all apps
     app_records = ", ".join(["%s"] * len(apps))
 
+    # Build a uery
     insert_query = (
         f"INSERT INTO applicants ({cols_sql}) VALUES {app_records}"
     )
 
+    # Execute and close the database connection
     connection.autocommit = True
     cursor = connection.cursor()
     cursor.execute(insert_query, apps)
