@@ -1,4 +1,3 @@
-import psycopg2
 from psycopg2 import OperationalError
 from create_table import create_connection
 
@@ -15,14 +14,14 @@ def execute_read_query(connection, query):
 
 
 def problem_1(connection):
-    # 1. How many entries do you have in your database who have applied 
+    # 1. How many entries do you have in your database who have applied
     # for Spring 2025?
     select_SP2025 = """
-    SELECT 
-        COUNT(term) 
-    FROM 
-        applicants 
-    WHERE 
+    SELECT
+        COUNT(term)
+    FROM
+        applicants
+    WHERE
         term = 'Spring 2025'
     ;"""
     apps_number = execute_read_query(connection, select_SP2025)
@@ -31,20 +30,20 @@ def problem_1(connection):
 
 
 def problem_2(connection):
-    # 2. What percentage of entries are from international students 
+    # 2. What percentage of entries are from international students
     # (not American or Other) (to two decimal places)?
     select_i18n = """
     SELECT
         COUNT(us_or_international)
-    FROM 
-        applicants 
+    FROM
+        applicants
     WHERE
         us_or_international <> 'American'
         AND us_or_international <> 'Other'
     UNION
     SELECT
         COUNT(us_or_international)
-    FROM 
+    FROM
         applicants
     ;"""
     i18n_number = execute_read_query(connection, select_i18n)
@@ -54,7 +53,7 @@ def problem_2(connection):
 
 
 def problem_3(connection):
-    # 3. What is the average GPA, GRE, GRE V, GRE AW of applicants who 
+    # 3. What is the average GPA, GRE, GRE V, GRE AW of applicants who
     # provide these metrics?
     select_averages = """
     SELECT
@@ -115,7 +114,7 @@ def problem_4(connection):
 
 
 def problem_5(connection):
-    # 5. What percent of entries for Spring 2025 are Acceptances 
+    # 5. What percent of entries for Spring 2025 are Acceptances
     # (to two decimal places)?
     select_accepted = """
     SELECT
@@ -140,7 +139,7 @@ def problem_5(connection):
 
 
 def problem_6(connection):
-    # 6. What is the average GPA of applicants who applied for Spring 2025 
+    # 6. What is the average GPA of applicants who applied for Spring 2025
     # who are Acceptances?
     select_average = """
     SELECT
@@ -159,7 +158,7 @@ def problem_6(connection):
 
 
 def problem_7(connection):
-    # 7. How many entries are from applicants who applied to JHU for a masters 
+    # 7. How many entries are from applicants who applied to JHU for a masters
     # degrees in Computer Science?
     select_JHU = """
     SELECT
@@ -181,7 +180,7 @@ if __name__ == "__main__":
     connection = create_connection(
         "gradcafe", "postgres", "abc123", "127.0.0.1", "5432"
     )
-    
+
     # Problem 1
     print(f"1. Number of entries for Spring 2025: ")
     print(f"{problem_1(connection)}")
@@ -194,19 +193,19 @@ if __name__ == "__main__":
     print(f"3. Average GPA, GRE, GRE V, GRE AW: ")
     for score in problem_3(connection):
         print(f"{score[0]}: {score[1]:.2f}")
-    
+
     # Problem 4
     print(f"4. Average GPA of American students in Spring 2025: ")
     print(f"{problem_4(connection):.2f}")
-    
+
     # Problem 5
     print(f"5. Percent of entries for Spring 2025 that are Acceptances: ")
     print(f"{problem_5(connection):.2f}%")
-    
+
     # Problem 6
     print(f"6.  GPA of applicants in Spring 2025 that are accepted: ")
     print(f"{problem_6(connection):.2f}")
-    
+
     # Problem 7
     print(f"7. Number of applicants who applied for Masters degrees " \
           "in Computer Science at JHU: ")

@@ -60,7 +60,7 @@ if __name__ == "__main__":
     create_applicants_table = """
     CREATE TABLE IF NOT EXISTS applicants (
         p_id SERIAL PRIMARY KEY,
-        program TEXT NOT NULL, 
+        program TEXT NOT NULL,
         comments TEXT,
         date_added DATE,
         url TEXT,

@@ -1,6 +1,6 @@
 from pathlib import Path
 import json
-from create_table import create_connection, execute_query
+from create_table import create_connection
 
 
 if __name__ == "__main__":
@@ -36,7 +36,7 @@ if __name__ == "__main__":
     cols_sql = ", ".join(table_cols)
 
     apps = []
-    
+
     # Get records from the data dictionary
     for datum in data:
         # Extract numeric valuse for GPA-GRE
@@ -54,49 +54,51 @@ if __name__ == "__main__":
             gre_v = None
         if (datum.setdefault("GRE AW", None)):
             gre_aw = float(datum.setdefault("GRE AW", None)[6:])
-        else: 
+        else:
             gre_aw = None
-        
+
         # Make up a data record
         values = (
-        datum.setdefault("program", None),
-        datum.setdefault("comments", None),
-        datum.get("date_added", None)[9:],
-        datum.setdefault("url", None),
-        datum.setdefault("status", None),
-        datum.setdefault("term", None),
-        datum.setdefault("US/Internaional", None),
-        gpa,
-        gre,
-        gre_v,
-        gre_aw,
-        datum.setdefault("Degree", None)
-        )
-
-        # Work around bad data for UIC
-        if (datum.get("program").find("(UIC), University of Illinois Chicago") != -1):
-            values = (
-            datum.setdefault("Degree", None) + ", " + datum.get("program")[7:],
+            datum.setdefault("program", None),
             datum.setdefault("comments", None),
-            datum.get("status", None),
+            datum.get("date_added", None)[9:],
             datum.setdefault("url", None),
-            None,
+            datum.setdefault("status", None),
             datum.setdefault("term", None),
             datum.setdefault("US/Internaional", None),
             gpa,
             gre,
             gre_v,
             gre_aw,
-            datum.get("date_added", None)[9:]
+            datum.setdefault("Degree", None)
         )
 
-        # Add a tuple with single app info to a list    
+        # Work around bad data for UIC
+        if datum.get("program").find(
+                "(UIC), University of Illinois Chicago"
+            ) != -1:
+            values = (
+                datum.setdefault("Degree", None) + ", " + datum.get("program")[7:],
+                datum.setdefault("comments", None),
+                datum.get("status", None),
+                datum.setdefault("url", None),
+                None,
+                datum.setdefault("term", None),
+                datum.setdefault("US/Internaional", None),
+                gpa,
+                gre,
+                gre_v,
+                gre_aw,
+                datum.get("date_added", None)[9:]
+        )
+
+        # Add a tuple with single app info to a list
         apps.append(values)
-    
+
     # Get a template to add all apps
     app_records = ", ".join(["%s"] * len(apps))
 
-    # Build a uery
+    # Build a query
     insert_query = (
         f"INSERT INTO applicants ({cols_sql}) VALUES {app_records}"
     )
