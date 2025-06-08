@@ -1,10 +1,13 @@
+from pathlib import Path
 import json
 from create_table import create_connection, execute_query
 
 
 if __name__ == "__main__":
+    app_folder = Path.cwd()
+
     # Read data from a .json file into a dictionary
-    f = open("module_3/applicant_data.json", "r")
+    f = open(app_folder / "applicant_data.json", "r")
     file = f.read()
     data = json.loads(file)
     print(f"Loaded data")

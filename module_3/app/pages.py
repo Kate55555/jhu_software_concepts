@@ -24,8 +24,10 @@ def home():
 
 @bp.route("/analysis")
 def analysis():
+    # Connect to the database
     conn = get_db_connection()
     cur = conn.cursor()
+    # Get answers from the database
     answers = {
         "P1": query_data.problem_1(conn),
         "P2": query_data.problem_2(conn),
