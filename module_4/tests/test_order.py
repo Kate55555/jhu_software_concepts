@@ -2,6 +2,10 @@ import pytest
 from app.order import Order
 
 class TestOrder:
+    order_bucket_1 = Order()
+    order_bucket_2 = Order()
+
+
     @pytest.fixture
     def order_bucket(self):
         """Create an empty order object"""
@@ -24,8 +28,32 @@ class TestOrder:
     
 
     ### Test order __str__()
-    # Test order should return a string containing customer full order and cost
-    
+    @pytest.mark.parametrize("pizza_parm, expected_str", [
+        ({
+            "crust": "Thin", "sauce": ["Marinara"], 
+            "cheese": "Mozzarella", "toppings": ["Pineapple"]
+        }, "Customer Requested:\n \
+            Thin Crust, Marinara, Mozzarella pizza with Pineapple. Cost: $8."),
+        ({
+            "crust": "Thin", "sauce": ["Marinara", "Liv Sauce"], 
+            "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
+        }, "Thin Crust, Marinara, Liv Sauce, Mozzarella pizza with Pepperoni \
+            and Mushrooms. Cost: $17."),
+    ])
+    def test_str(
+            self, 
+            pizza_parm: dict, 
+            expected_str: str
+    ):
+        """Test order returns a string containing customer full order & cost"""
+        self.order_bucket_1.input_pizza(
+            pizza_parm["crust"],
+            pizza_parm["sauce"],
+            pizza_parm["cheese"],
+            pizza_parm["toppings"]
+        )
+        assert str(self.order_bucket_1) == expected_str
+
 
     ### Test order input_pizza()
     @pytest.mark.parametrize("pizza_parm, expected_cost", [
