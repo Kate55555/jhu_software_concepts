@@ -16,20 +16,22 @@ class TestPizza:
         assert isinstance(create_pizza, Pizza)
 
 
-    @pytest.mark.parametrize("attr_type, expected_type", [
+    @pytest.mark.parametrize("attr, expected_type", [
         (getattr(create_pizza, "crust"), str),
         (getattr(create_pizza, "sauce"), list),
         (getattr(create_pizza, "cheese"), str),
         (getattr(create_pizza, "toppings"), list),
     ])
-    def test_pizza_attr_types(
+    def test_pizza_attrs(
         self, 
-        attr_type: list | str, 
+        attr: list | str, 
         expected_type: str
     ):
         """Test pizza should have crust (str), sauce (list of str), 
         cheese (str), toppings (list of str)"""
-        assert isinstance(attr_type, expected_type)
+        if isinstance(attr, list):
+            assert all(isinstance(x, str) for x in attr)
+        assert isinstance(attr, expected_type)
 
 
     # Test pizza should return a non-zero cost
