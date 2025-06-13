@@ -23,9 +23,9 @@ class TestPizza:
         (getattr(create_pizza, "toppings"), list),
     ])
     def test_pizza_attrs(
-        self, 
-        attr: list | str, 
-        expected_type: str
+            self, 
+            attr: list | str, 
+            expected_type: str
     ):
         """Test pizza should have crust (str), sauce (list of str), 
         cheese (str), toppings (list of str)"""
@@ -34,11 +34,43 @@ class TestPizza:
         assert isinstance(attr, expected_type)
 
 
-    # Test pizza should return a non-zero cost
+    def test_pizza_non_zero_cost(self, pizza: Pizza):
+        """Test pizza should return a non-zero cost"""
+        assert pizza.cost() != 0
+
 
     ### Test pizza __str__()
     # Test pizza should return a string containing the pizza and cost
 
     ### Test pizza cost()
-    # Test return of correct cost for an input pizza
-    pass
+    @pytest.mark.parametrize("pizza_parm, expected_cost", [
+        ({
+            "crust": "Thin", "sauce": ["Marinara"], 
+            "cheese": "Mozzarella", "toppings": ["Pineapple"]
+        }, 5 + 2 + 1),
+        ({
+            "crust": "Thin", "sauce": ["Marinara", "Liv Sauce"], 
+            "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
+        }, 5 + 2 + 5 + 2 + 3),
+        ({
+            "crust": "Thick", "sauce": ["Pesto", "Liv Sauce"], 
+            "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
+        }, 6 + 3 + 5 + 2 + 3),
+        ({
+            "crust": "Gluten Free", "sauce": ["Marinara", "Pesto", "Liv Sauce"], 
+            "cheese": "Mozzarella", "toppings": ["Pineapple", "Pepperoni", "Mushrooms"]
+        }, 8 + 2 + 3 + 5 + 1 + 2 + 3),
+    ])
+    def test_pizza_cost(
+            self, 
+            pizza_parm: dict, 
+            expected_cost: int
+    ):
+        """Test return of correct cost for an input pizza"""
+        pizza = Pizza(
+            pizza_parm["crust"],
+            pizza_parm["sauce"],
+            pizza_parm["cheese"],
+            pizza_parm["toppings"]
+        )
+        assert pizza.cost() == expected_cost

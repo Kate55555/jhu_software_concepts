@@ -41,9 +41,9 @@ class TestOrder:
             and Mushrooms. Cost: $17."),
     ])
     def test_str(
-        self, 
-        pizza_parm: dict, 
-        expected_str: str
+            self, 
+            pizza_parm: dict, 
+            expected_str: str
     ):
         """Test order returns a string containing customer full order & cost"""
         self.order_bucket_1.input_pizza(
@@ -75,10 +75,10 @@ class TestOrder:
         }, 8 + 2 + 3 + 5 + 1 + 2 + 3),
     ])
     def test_cost_by_input(
-        self, 
-        pizza_parm: dict, 
-        expected_cost: int, 
-        order_bucket: Order
+            self, 
+            pizza_parm: dict, 
+            expected_cost: int, 
+            order_bucket: Order
     ):
         """Test method should update cost"""
         order_bucket.input_pizza(
