@@ -32,12 +32,12 @@ class TestOrder:
         ({
             "crust": "Thin", "sauce": ["Marinara"], 
             "cheese": "Mozzarella", "toppings": ["Pineapple"]
-        }, "Customer Requested:\n \
-            Thin Crust, Marinara, Mozzarella pizza with Pineapple. Cost: $8."),
+        }, "Thin Crust, Marinara, Mozzarella pizza with Pineapple. Cost: $8."),
         ({
             "crust": "Thin", "sauce": ["Marinara", "Liv Sauce"], 
             "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
-        }, "Thin Crust, Marinara, Liv Sauce, Mozzarella pizza with Pepperoni \
+        }, "Thin Crust, Marinara, Mozzarella pizza with Pineapple. Cost: $8.\n \
+            Thin Crust, Marinara, Liv Sauce, Mozzarella pizza with Pepperoni \
             and Mushrooms. Cost: $17."),
     ])
     def test_str(
@@ -52,7 +52,7 @@ class TestOrder:
             pizza_parm["cheese"],
             pizza_parm["toppings"]
         )
-        assert str(self.order_bucket_1) == expected_str
+        assert str(self.order_bucket_1) == f"Customer Requested:\n {expected_str}"
 
 
     ### Test order input_pizza()
