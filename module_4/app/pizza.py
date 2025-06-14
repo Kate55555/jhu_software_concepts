@@ -66,7 +66,7 @@ class Pizza:
         :rtype: str
         """
         # Print the cost of that pizza
-        string = f"{self.crust}, "
+        string = f"{self.crust} Crust, "
         for sos in self.sauce:
             string += sos
         string += f", {self.cheese} pizza with "
