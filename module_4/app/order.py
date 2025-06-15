@@ -2,6 +2,7 @@
 from app.pizza import Pizza
 
 class Order:
+    """Order object and associated pizzaz and total cost"""
     def __init__(self):
         """Initialize a customer order
 
@@ -39,7 +40,7 @@ class Order:
         
         :param crust: Pizza crust as one of the values: Thin, Thick, Gluten Free
         :type crust: str
-        :pizza sauce: Pizza sause as at least one of the values: Marinara, Pesto, Liv Sauce
+        :param sauce: Pizza sause as at least one of the values: Marinara, Pesto, Liv Sauce
         :type sauce: list
         :param cheese: Pizza cheese, only Mozzarella supported
         :type cheese: str
