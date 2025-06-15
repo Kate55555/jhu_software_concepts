@@ -3,6 +3,7 @@ from app.order import Order
 
 order_bucket = Order()
 
+@pytest.mark.order
 @pytest.mark.parametrize("pizza_parm, expected_cost", [
     ({
         "crust": "Thin", "sauce": ["Marinara"], 

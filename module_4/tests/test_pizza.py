@@ -10,11 +10,13 @@ def create_pizza(self):
                 "Mozzarella", ["Pineapple"])
 
 
+@pytest.mark.pizza
 def test_pizza_init(self, create_pizza: Pizza):
     """Test return an initialized pizza"""
     assert isinstance(create_pizza, Pizza)
 
 
+@pytest.mark.pizza
 @pytest.mark.parametrize("attr, expected_type", [
     (getattr(create_pizza, "crust"), str),
     (getattr(create_pizza, "sauce"), list),
@@ -32,12 +34,14 @@ def test_pizza_attrs(
     assert isinstance(attr, expected_type)
 
 
+@pytest.mark.pizza
 def test_pizza_non_zero_cost(self, pizza: Pizza):
     """Test pizza should return a non-zero cost"""
     assert pizza.cost() != 0
 
 
 ### Test pizza __str__()
+@pytest.mark.pizza
 @pytest.mark.parametrize("pizza_parm, expected_str", [
     ({
         "crust": "Thin", "sauce": ["Marinara"], 
@@ -66,6 +70,7 @@ def test_str(pizza_parm: dict, expected_str: str):
 
 
 ### Test pizza cost()
+@pytest.mark.pizza
 @pytest.mark.parametrize("pizza_parm, expected_cost", [
     ({
         "crust": "Thin", "sauce": ["Marinara"], 
