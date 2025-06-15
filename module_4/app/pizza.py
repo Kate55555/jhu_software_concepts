@@ -56,7 +56,7 @@ class Pizza:
         self.selling_cost = self.prices["Crust"][self.crust] \
             + sum(self.prices["Sauce"][sos] for sos in self.sauce) \
             + self.prices["Cheese"][self.cheese] \
-            + sum(self.prices["Topping"][top] for top in self.toppings)
+            + sum(self.prices["Toppings"][top] for top in self.toppings)
 
 
     def __str__(self) -> str:
@@ -67,14 +67,13 @@ class Pizza:
         """
         # Print the cost of that pizza
         string = f"{self.crust} Crust, "
-        for sos in self.sauce:
-            string += sos
+        string += f"{', '.join(self.sauce)}"
         string += f", {self.cheese} pizza with "
         if len(self.toppings) == 1:
             string += self.toppings[0]
         else:
             string += f"{', '.join(self.toppings[:-1])} and {self.toppings[-1]}"
-        string += f". Cost: ${self.cost}."
+        string += f". Cost: ${self.cost()}."
         return string
 
 

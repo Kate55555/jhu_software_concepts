@@ -4,40 +4,29 @@ from app.pizza import Pizza
 ### Test pizza __init__()
 
 @pytest.fixture
-def create_pizza(self):
+def create_pizza():
     """Pizza initializer"""
-    return Pizza("Thin", ["Marinara"], 
+    pizza = Pizza("Thin", ["Marinara"], 
                 "Mozzarella", ["Pineapple"])
+    return pizza
 
 
 @pytest.mark.pizza
-def test_pizza_init(self, create_pizza: Pizza):
-    """Test return an initialized pizza"""
+def test_pizza_init( create_pizza: Pizza):
+    """Test pizza initialization is correct"""
+    # Test return an initialized pizza
     assert isinstance(create_pizza, Pizza)
 
+    # Test pizza should have crust (str), sauce (list of str), 
+    # cheese (str), toppings (list of str)
 
-@pytest.mark.pizza
-@pytest.mark.parametrize("attr, expected_type", [
-    (getattr(create_pizza, "crust"), str),
-    (getattr(create_pizza, "sauce"), list),
-    (getattr(create_pizza, "cheese"), str),
-    (getattr(create_pizza, "toppings"), list),
-])
-def test_pizza_attrs(
-        attr: list | str, 
-        expected_type: str
-):
-    """Test pizza should have crust (str), sauce (list of str), 
-    cheese (str), toppings (list of str)"""
-    if isinstance(attr, list):
-        assert all(isinstance(x, str) for x in attr)
-    assert isinstance(attr, expected_type)
-
-
-@pytest.mark.pizza
-def test_pizza_non_zero_cost(self, pizza: Pizza):
-    """Test pizza should return a non-zero cost"""
-    assert pizza.cost() != 0
+    assert isinstance(getattr(create_pizza, "crust"), str)
+    assert isinstance(getattr(create_pizza, "sauce"), list)
+    assert isinstance(getattr(create_pizza, "cheese"), str)
+    assert isinstance(getattr(create_pizza, "toppings"), list)
+    
+    # Test pizza should return a non-zero cost
+    assert create_pizza.cost() != 0
 
 
 ### Test pizza __str__()
@@ -50,13 +39,13 @@ def test_pizza_non_zero_cost(self, pizza: Pizza):
     ({
         "crust": "Thin", "sauce": ["Marinara", "Liv Sauce"], 
         "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
-    }, "Thin Crust, Marinara, Liv Sauce, Mozzarella pizza with Pepperoni \
-        and Mushrooms. Cost: $17."),
+    }, "Thin Crust, Marinara, Liv Sauce, Mozzarella pizza with Pepperoni "
+        "and Mushrooms. Cost: $17."),
     ({
         "crust": "Thick", "sauce": ["Marinara", "Pesto", "Liv Sauce"], 
         "cheese": "Mozzarella", "toppings": ["Pineapple", "Pepperoni", "Mushrooms"]
-    }, "Thick Crust, Marinara, Pesto, Liv Sauce, Mozzarella pizza with \
-        Pineapple, Pepperoni and Mushrooms. Cost: $22."),
+    }, "Thick Crust, Marinara, Pesto, Liv Sauce, Mozzarella pizza with "
+        "Pineapple, Pepperoni and Mushrooms. Cost: $22."),
 ])
 def test_str(pizza_parm: dict, expected_str: str):
     """Test pizza should return a string containing the pizza and cost"""

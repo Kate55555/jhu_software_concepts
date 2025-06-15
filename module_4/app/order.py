@@ -24,7 +24,7 @@ class Order:
         """
         string = "Customer Requested:\n"
         for i in range(len(self.pizzas)):
-            string += f"{str(self.pizzas)}\n"
+            string += f"{str(self.pizzas[i])}\n"
         return string
 
 
@@ -63,4 +63,3 @@ class Order:
         :rtype: none
         """
         self.paid = True
-        

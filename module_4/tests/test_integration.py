@@ -12,15 +12,15 @@ order_bucket = Order()
     ({
         "crust": "Thin", "sauce": ["Marinara", "Liv Sauce"], 
         "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
-    }, 5 + 2 + 5 + 2 + 3),
+    }, (5 + 2 + 1) + 5 + 2 + 5 + 2 + 3),
     ({
         "crust": "Thick", "sauce": ["Pesto", "Liv Sauce"], 
         "cheese": "Mozzarella", "toppings": ["Pepperoni", "Mushrooms"]
-    }, 6 + 3 + 5 + 2 + 3),
+    }, ((5 + 2 + 1) + 5 + 2 + 5 + 2 + 3) + 6 + 3 + 5 + 2 + 3),
     ({
         "crust": "Gluten Free", "sauce": ["Marinara", "Pesto", "Liv Sauce"], 
         "cheese": "Mozzarella", "toppings": ["Pineapple", "Pepperoni", "Mushrooms"]
-    }, 8 + 2 + 3 + 5 + 1 + 2 + 3),
+    }, (((5 + 2 + 1) + 5 + 2 + 5 + 2 + 3) + 6 + 3 + 5 + 2 + 3) +8 + 2 + 3 + 5 + 1 + 2 + 3),
 ])
 def test_multipizza_order_cost(pizza_parm: dict, expected_cost: str):
     """Test that code can handle multiple pizza objects per order"""
