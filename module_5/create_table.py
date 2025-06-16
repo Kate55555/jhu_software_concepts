@@ -1,12 +1,13 @@
+"""This module creates a table Applicants within the Gradcafe database"""
 import psycopg2
 from psycopg2 import OperationalError
 
 
 def create_connection(db_name, db_user, db_password, db_host, db_port):
     """Make a connection with a PostgreSQL database"""
-    connection = None
+    dbconnection = None
     try:
-        connection = psycopg2.connect(
+        dbconnection = psycopg2.connect(
             database=db_name,
             user=db_user,
             password=db_password,
@@ -16,13 +17,13 @@ def create_connection(db_name, db_user, db_password, db_host, db_port):
         print("Connection to PostgreSQL DB successful")
     except OperationalError as e:
         print(f"The error '{e}' occurred")
-    return connection
+    return dbconnection
 
 
-def create_database(connection, query):
+def create_database(dbconnection, query):
     """Create a new database in the PostgreSQL database server"""
-    connection.autocommit = True
-    cursor = connection.cursor()
+    dbconnection.autocommit = True
+    cursor = dbconnection.cursor()
     try:
         cursor.execute(query)
         print("Query executed successfully")
@@ -30,10 +31,10 @@ def create_database(connection, query):
         print(f"The error '{e}' occurred")
 
 
-def execute_query(connection, query):
+def execute_query(dbconnection, query):
     """Execute Python SQL queries on the PostgreSQL database"""
-    connection.autocommit = True
-    cursor = connection.cursor()
+    dbconnection.autocommit = True
+    cursor = dbconnection.cursor()
     try:
         cursor.execute(query)
         print("Query executed successfully")
@@ -48,8 +49,8 @@ if __name__ == "__main__":
     )
 
     # Create a new database 'gradcafe' in the PostgreSQL database server
-    create_database_query = "CREATE DATABASE gradcafe"
-    create_database(connection, create_database_query)
+    CREATE_DATABASE_QUERY = "CREATE DATABASE gradcafe"
+    create_database(connection, CREATE_DATABASE_QUERY)
 
     # Establish a connection with the 'gradcafe' database
     connection = create_connection(
@@ -57,7 +58,7 @@ if __name__ == "__main__":
     )
 
     # Create the table 'applicants' inside the 'gradcafe' database
-    create_applicants_table = """
+    CREATE_APPLICANTS_TABLE = """
     CREATE TABLE IF NOT EXISTS applicants (
         p_id SERIAL PRIMARY KEY,
         program TEXT NOT NULL,
@@ -74,4 +75,4 @@ if __name__ == "__main__":
         degree TEXT
     )
     """
-    execute_query(connection, create_applicants_table)
+    execute_query(connection, CREATE_APPLICANTS_TABLE)
