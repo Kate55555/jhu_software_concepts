@@ -1,7 +1,7 @@
 """This module creates a Flask app blueprint"""
 from flask import Flask
 
-from app import pages
+from src import pages
 
 def create_app():
     """Create a Flask application instance

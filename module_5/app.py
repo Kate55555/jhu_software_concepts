@@ -1,4 +1,5 @@
-from app import create_app
+"""This module starts a Flask app"""
+from src import create_app
 
 # Run the web server
 if __name__ == "__main__":
