@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Analysis{% endblock title %}</h1>
+{% endblock header %}
+
+{% block content %}
+<p></p>
+<div class="container px-0">
+<div class="row">
+<div class="col bg-light bg-gradient">
+<p><strong>
+  1. How many entries do you have in your database who have applied for Spring 2025?
+</strong></p>
+<p>
+  {{ answers["P1"]}}
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col bg-secondary-subtle">
+<p><strong>
+  2. What percentage of entries are from international students (not American or Other) (to two decimal places)?
+</strong></p>
+<p>
+  {{ "%.2f"|format(answers["P2"]) }}%
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col bg-light bg-gradient">
+<p><strong>
+  3. What is the average GPA, GRE, GRE V, GRE AW of applicants who provide these metrics?
+</strong></p>
+{% for score in answers["P3"] %}
+<p>
+  {{ score[0]}}: {{ "%.2f"|format(score[1]) }}
+</p>
+{% endfor %}
+</div>
+</div>
+<div class="row">
+<div class="col bg-secondary-subtle">
+<p><strong>
+  4. What is their average GPA of American students in Spring 2025?
+</strong></p>
+<p>
+  {{ "%.2f"|format(answers["P4"]) }}
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col bg-light bg-gradient">
+<p><strong>
+  5. What percent of entries for Spring 2025 are Acceptances (to two decimal places)?
+</strong></p>
+<p>
+  {{ "%.2f"|format(answers["P5"]) }}%
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col bg-secondary-subtle">
+<p><strong>
+  6. What is the average GPA of applicants who applied for Spring 2025 who are Acceptances?
+</strong></p>
+<p>
+  {{ "%.2f"|format(answers["P6"]) }}
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col bg-light bg-gradient">
+<p><strong>
+  7. How many entries are from applicants who applied to JHU for a masters degrees in Computer
+Science?
+</strong></p>
+<p>
+  {{ answers["P7"]}}
+</p>
+</div>
+</div>
+</div>
+{% endblock content %}
