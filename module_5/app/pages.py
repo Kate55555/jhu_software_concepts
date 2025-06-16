@@ -1,3 +1,4 @@
+"""This module defines routes of the Flas application"""
 import psycopg2
 from flask import Blueprint, render_template
 import query_data
@@ -10,20 +11,22 @@ def get_db_connection():
     connection = psycopg2.connect(
         dbname="gradcafe",
         user="postgres",
-        password="abc123", 
-        host="127.0.0.1", 
+        password="abc123",
+        host="127.0.0.1",
         port="5432"
     )
     return connection
 
 
-# Define routes to return templates 
+# Define routes to return templates
 @bp.route("/")
 def home():
+    """Define what the home page returns"""
     return render_template("pages/home.html")
 
 @bp.route("/analysis")
 def analysis():
+    """Define what the analysis section returns"""
     # Connect to the database
     conn = get_db_connection()
     cur = conn.cursor()
