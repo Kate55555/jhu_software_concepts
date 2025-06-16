@@ -1,5 +1,5 @@
 """This module queries the database table Applicants"""
-from psycopg2 import OperationalError
+from psycopg2 import OperationalError, sql
 from create_table import create_connection
 
 
@@ -34,14 +34,19 @@ def problem_1(dbconnection):
     """
     # 1. How many entries do you have in your database who have applied
     # for Spring 2025?
-    select_sp2025 = """
+    select_sp2025 = sql.SQL("""
     SELECT
         COUNT(term)
     FROM
-        applicants
+        {table_name}
     WHERE
         term = 'Spring 2025'
-    ;"""
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     apps_number = execute_read_query(dbconnection, select_sp2025)
     for count in apps_number:
         return count[0]
@@ -57,11 +62,11 @@ def problem_2(dbconnection):
     """
     # 2. What percentage of entries are from international students
     # (not American or Other) (to two decimal places)?
-    select_i18n = """
+    select_i18n = sql.SQL("""
     SELECT
         COUNT(us_or_international)
     FROM
-        applicants
+        {table_name}
     WHERE
         us_or_international <> 'American'
         AND us_or_international <> 'Other'
@@ -69,8 +74,13 @@ def problem_2(dbconnection):
     SELECT
         COUNT(us_or_international)
     FROM
-        applicants
-    ;"""
+        {table_name}
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     i18n_number = execute_read_query(dbconnection, select_i18n)
     # Compute percentage
     i18n_share = i18n_number[0][0] / i18n_number[1][0] * 100
@@ -87,12 +97,12 @@ def problem_3(dbconnection):
     """
     # 3. What is the average GPA, GRE, GRE V, GRE AW of applicants who
     # provide these metrics?
-    select_averages = """
+    select_averages = sql.SQL("""
     SELECT
         'Average GPA' AS Category
         ,AVG(gpa) AS Value
     FROM
-        applicants
+        {table_name}
     WHERE
         gpa > 0
         AND gpa <= 4
@@ -101,7 +111,7 @@ def problem_3(dbconnection):
         'Average GRE' AS Category
         ,AVG(gre) AS Value
     FROM
-        applicants
+        {table_name}
     WHERE
         gre >= 130
         AND gre <= 170
@@ -110,7 +120,7 @@ def problem_3(dbconnection):
         'Average GRE V'  AS Category
         ,AVG(gre_v) AS Value
     FROM
-        applicants
+        {table_name}
     WHERE
         gre_v >= 130
         AND gre_v <= 170
@@ -119,11 +129,16 @@ def problem_3(dbconnection):
         'Average GRE AW'  AS Category
         ,AVG(gre_aw) AS Value
     FROM
-        applicants
+        {table_name}
     WHERE
         gre_aw > 0
         AND gre_aw <= 6
-    ;"""
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     averages = execute_read_query(dbconnection, select_averages)
     return averages
 
@@ -137,16 +152,21 @@ def problem_4(dbconnection):
     :rtype: float
     """
     # 4. What is their average GPA of American students in Spring 2025?
-    select_average = """
+    select_average = sql.SQL("""
     SELECT
         AVG(gpa)
     FROM
-        applicants
+        {table_name}
     WHERE
         gpa > 0
         AND gpa <= 4
         AND us_or_international = 'American'
-    ;"""
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     average_gpa = execute_read_query(dbconnection, select_average)
     for result in average_gpa:
         return result[0]
@@ -162,11 +182,11 @@ def problem_5(dbconnection):
     """
     # 5. What percent of entries for Spring 2025 are Acceptances
     # (to two decimal places)?
-    select_accepted = """
+    select_accepted = sql.SQL("""
     SELECT
         COUNT(status)
     FROM
-        applicants
+        {table_name}
     WHERE
         term = 'Spring 2025'
         AND status LIKE '%Accepted%'
@@ -174,10 +194,15 @@ def problem_5(dbconnection):
     SELECT
         COUNT(status)
     FROM
-        applicants
+        {table_name}
     WHERE
         term = 'Spring 2025'
-    ;"""
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     accepted = execute_read_query(dbconnection, select_accepted)
     # Compute percentage
     accepted_share = accepted[0][0] / accepted[1][0] * 100
@@ -194,17 +219,22 @@ def problem_6(dbconnection):
     """
     # 6. What is the average GPA of applicants who applied for Spring 2025
     # who are Acceptances?
-    select_average = """
+    select_average = sql.SQL("""
     SELECT
         AVG(gpa)
     FROM
-        applicants
+        {table_name}
     WHERE
         gpa > 0
         AND gpa <= 4
         AND term = 'Spring 2025'
         AND status LIKE '%Accepted%'
-    ;"""
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     average_gpa = execute_read_query(dbconnection, select_average)
     for result in average_gpa:
         return result[0]
@@ -220,16 +250,21 @@ def problem_7(dbconnection):
     """
     # 7. How many entries are from applicants who applied to JHU for a masters
     # degrees in Computer Science?
-    select_jhu = """
+    select_jhu = sql.SQL("""
     SELECT
         COUNT(program)
     FROM
-        applicants
+        {table_name}
     WHERE
         program LIKE '%Johns Hopkins University%'
         AND program LIKE '%Computer Science%'
         AND degree LIKE '%Masters%'
-    ;"""
+    LIMIT
+        {limit}
+    ;""").format(
+        table_name = sql.Identifier("applicants"),
+        limit = sql.Literal(20000),
+    )
     jhu_masters_cs = execute_read_query(dbconnection, select_jhu)
     for result in jhu_masters_cs:
         return result[0]
