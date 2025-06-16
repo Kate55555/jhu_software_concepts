@@ -1,3 +1,4 @@
+"""This module loads applicants' data into the Applicants table"""
 from pathlib import Path
 import json
 from create_table import create_connection
@@ -7,10 +8,10 @@ if __name__ == "__main__":
     app_folder = Path.cwd()
 
     # Read data from a .json file into a dictionary
-    f = open(app_folder / "applicant_data.json", "r")
-    file = f.read()
+    with open(app_folder / "applicant_data.json", "r", encoding="utf-8") as f:
+        file = f.read()
     data = json.loads(file)
-    print(f"Loaded data")
+    print("Loaded data")
 
     # Establish a connection with the 'gradcafe' database
     connection = create_connection(
@@ -33,29 +34,29 @@ if __name__ == "__main__":
         "degree"
     ]
 
-    cols_sql = ", ".join(table_cols)
+    COLS_SQL = ", ".join(table_cols)
 
     apps = []
 
     # Get records from the data dictionary
     for datum in data:
         # Extract numeric valuse for GPA-GRE
-        if (datum.setdefault("GPA", )):
-            gpa = float(datum.setdefault("GPA", None)[3:])
+        if datum.setdefault("GPA", ):
+            GPA = float(datum.setdefault("GPA", None)[3:])
         else:
-            gpa = None
-        if (datum.setdefault("GRE", None)):
-            gre = float(datum.setdefault("GRE", None)[3:])
+            GPA = None
+        if datum.setdefault("GRE", None):
+            GRE = float(datum.setdefault("GRE", None)[3:])
         else:
-            gre = None
-        if (datum.setdefault("GRE V", None)):
-            gre_v = float(datum.setdefault("GRE V", None)[5:])
+            GRE = None
+        if datum.setdefault("GRE V", None):
+            GRE_V = float(datum.setdefault("GRE V", None)[5:])
         else:
-            gre_v = None
-        if (datum.setdefault("GRE AW", None)):
-            gre_aw = float(datum.setdefault("GRE AW", None)[6:])
+            GRE_V = None
+        if datum.setdefault("GRE AW", None):
+            GRE_AW = float(datum.setdefault("GRE AW", None)[6:])
         else:
-            gre_aw = None
+            GRE_AW = None
 
         # Make up a data record
         values = (
@@ -66,10 +67,10 @@ if __name__ == "__main__":
             datum.setdefault("status", None),
             datum.setdefault("term", None),
             datum.setdefault("US/Internaional", None),
-            gpa,
-            gre,
-            gre_v,
-            gre_aw,
+            GPA,
+            GRE,
+            GRE_V,
+            GRE_AW,
             datum.setdefault("Degree", None)
         )
 
@@ -85,10 +86,10 @@ if __name__ == "__main__":
                 None,
                 datum.setdefault("term", None),
                 datum.setdefault("US/Internaional", None),
-                gpa,
-                gre,
-                gre_v,
-                gre_aw,
+                GPA,
+                GRE,
+                GRE_V,
+                GRE_AW,
                 datum.get("date_added", None)[9:]
         )
 
@@ -96,17 +97,17 @@ if __name__ == "__main__":
         apps.append(values)
 
     # Get a template to add all apps
-    app_records = ", ".join(["%s"] * len(apps))
+    APP_RECORDS = ", ".join(["%s"] * len(apps))
 
     # Build a query
-    insert_query = (
-        f"INSERT INTO applicants ({cols_sql}) VALUES {app_records}"
+    INSERT_QUERY = (
+        f"INSERT INTO applicants ({COLS_SQL}) VALUES {APP_RECORDS}"
     )
 
     # Execute and close the database connection
     connection.autocommit = True
     cursor = connection.cursor()
-    cursor.execute(insert_query, apps)
+    cursor.execute(INSERT_QUERY, apps)
     cursor.close()
     connection.close()
-    print(f"Inserted data")
+    print("Inserted data")
