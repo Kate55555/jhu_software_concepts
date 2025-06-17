@@ -1,5 +1,5 @@
 """This module contains an order class"""
-from app.pizza import Pizza
+from src.pizza import Pizza
 
 class Order:
     """Order object and associated pizzaz and total cost"""

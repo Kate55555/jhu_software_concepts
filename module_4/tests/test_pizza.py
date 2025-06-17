@@ -1,5 +1,5 @@
 import pytest
-from app.pizza import Pizza
+from src.pizza import Pizza
 
 ### Test pizza __init__()
 

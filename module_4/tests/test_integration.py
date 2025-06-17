@@ -1,5 +1,5 @@
 import pytest
-from app.order import Order
+from src.order import Order
 
 order_bucket = Order()
 
