@@ -10,10 +10,10 @@ Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
-.. automodule:: app.order
+.. automodule:: src.order
    :members:
 
-.. automodule:: app.pizza
+.. automodule:: src.pizza
    :members:
 
 .. toctree::
