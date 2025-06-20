@@ -1,3 +1,4 @@
+"""This module starts a Flask app"""
 from app import create_app
 
 # Run the web server
